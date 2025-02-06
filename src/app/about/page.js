@@ -1,5 +1,5 @@
-import styles from '../styles.module.css';
+import styles from '../styles/button.module.css';
 
 export default function AboutPage() {
-  return <h1 className={styles.title}>About Page</h1>;
+  return <h1 className={styles.button}>About Page</h1>;
 }
